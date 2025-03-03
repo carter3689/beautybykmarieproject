@@ -22,7 +22,7 @@ export function HeroSplitImage() {
                 Be Who You Were Meant To Be
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                Feeling beautiful on the outside always helps boost what you ALREADY HAVE on the inside! We just turn it up a notch when you step through our doors!
+                Feeling beautiful on the outside always helps boost what you ALREADY HAVE on the inside! We just turn it up a notch when you step through our doors! WE MOVED!! -- 2040 River Oaks Dr Calumet City, IL 60409 Suite 11
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <a
